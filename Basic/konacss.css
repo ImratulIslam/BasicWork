@@ -1,0 +1,18 @@
+.custom-carousel-inner .carousel-item {
+    height: 600px;
+  }
+  
+  .custom-carousel-inner .carousel-item .carousel-caption {
+    bottom: 8.25rem;
+  }
+  
+  .my-experience, .my-contact-us {
+    background-color: rgb(27, 54, 27);
+  }
+  
+  .my-footer {
+    background-color: dimgray;
+  }
+  .nav-item a{
+    font-size: 20px
+  }
